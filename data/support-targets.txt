@@ -1,0 +1,2 @@
+# This file include supported targets at https://openwrt.cc
+x86/64
